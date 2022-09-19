@@ -1,16 +1,7 @@
 # stepper_kullanimi
 
-A new Flutter project.
 
-## Getting Started
+![resim1](https://raw.githubusercontent.com/furkancan2107/flutter_stepper_kullanimi/main/Ekran%20görüntüsü%202022-09-19%20222722.png)
+![resim2](https://raw.githubusercontent.com/furkancan2107/flutter_stepper_kullanimi/main/Ekran%20görüntüsü%202022-09-19%20222639.png)
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
