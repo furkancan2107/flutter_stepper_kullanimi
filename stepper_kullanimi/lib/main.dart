@@ -51,11 +51,6 @@ class _StepperKulanimiState extends State<StepperKulanimi> {
         child: Stepper(
           steps: _tumStepler(),
           currentStep: aktifStep,
-          /*onStepTapped: (value) {
-            setState(() {
-              aktifStep = value;
-            });
-          },*/
           onStepContinue: () {
             setState(() {});
             _ileriButonu();
